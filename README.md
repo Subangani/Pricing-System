@@ -12,7 +12,22 @@ System consist of front end application in react inside /my-app and spring boot 
 
 The react application is developed using Umi frawork.
 
+Start the front end app: Yarn install
+                          Yarn start
+
 Technology stack: React, Java, Postgres
 
+
+The list of products are shown as below
 ![image](https://user-images.githubusercontent.com/11584838/123569119-59daed80-d7e3-11eb-9a9d-501ec76e2cc9.png)
+
+The number of requested quantity of products vs unit price of the products are also shown up to 1 to 50
+
+![image](https://user-images.githubusercontent.com/11584838/123569285-ae7e6880-d7e3-11eb-893b-d1d3c7d72770.png)
+
+
+The user can select the product type and the quantity to find the total price of the products
+
+![image](https://user-images.githubusercontent.com/11584838/123569398-dc63ad00-d7e3-11eb-985c-ad04f4718898.png)
+
 
